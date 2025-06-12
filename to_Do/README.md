@@ -1,6 +1,6 @@
 # 📝 To-Do List Web App
 
-A minimal and responsive To-Do List application designed using only HTML and CSS. This project is perfect for learning the structure and styling of web interfaces without JavaScript.
+A minimal and responsive To-Do List application designed using only HTML and CSS. This project is perfect for learning the structure and styling of web interfaces without JavaScript. 
 
 ## 🚀 Features
 - Add and view tasks (static)
