@@ -1,12 +1,12 @@
-**🪨 Rock Paper Scissors Game 🎮**
+**🪨 Stone Paper Scissors Game 🎮**
 
 
-A simple and interactive Rock-Paper-Scissors web game built using HTML, CSS, and JavaScript. This project demonstrates DOM manipulation, event handling, and basic game logic in a fun and visual way.
+A simple and interactive Stone-Paper-Scissors web game built using HTML, CSS, and JavaScript. This project demonstrates DOM manipulation, event handling, and basic game logic in a fun and visual way.
 
 🧠 **Features**
 
 
-Play the classic Rock-Paper-Scissors game in your browser
+Play the classic Stone-Paper-Scissors game in your browser
 
 Interactive buttons and hover effects
 
