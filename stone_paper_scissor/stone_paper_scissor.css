@@ -1,0 +1,20 @@
+body{
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: rgba(255,240,224,255);
+    width: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#playgame{
+    align-items: center;
+    border-radius: 10px;
+    margin-top: 21%;
+    margin-left: 45%;
+    padding: 10px 20px;
+    font-size: larger;
+}
+button:hover{
+    background-color: green;
+}
