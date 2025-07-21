@@ -10,6 +10,11 @@ This is a classic **Tic Tac Toe** game built using **HTML**, **CSS**, and **Java
 - Clean and responsive user interface
 - Restart game option
 
+## Project Snippets
+<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/97ceffa8-61b4-436a-a1a1-cd312131e7dc" />
+<img width="1894" height="870" alt="image" src="https://github.com/user-attachments/assets/6136db79-7d90-4551-941c-12e919dbba8d" />
+
+
 ## 💡 How it Works
 
 - Players take turns to mark "X" and "O" on the 3x3 grid
