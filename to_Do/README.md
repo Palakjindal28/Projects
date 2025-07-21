@@ -7,6 +7,9 @@ A minimal and responsive To-Do List application designed using only HTML and CSS
 - Clean, modern UI
 - Responsive design for desktop and mobile
 
+## 📁Project Snippets
+<img width="1919" height="870" alt="Screenshot 2025-07-21 235957" src="https://github.com/user-attachments/assets/e2dad97a-3363-4060-ac37-eea2d041489b" />
+
 ## 📁 Technologies Used
 - HTML5
 - CSS
