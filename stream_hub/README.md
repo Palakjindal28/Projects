@@ -1,7 +1,9 @@
 🎥 StreamHub – YouTube Clone
+
 A clean, responsive, and functional YouTube UI clone built using HTML, CSS, and JavaScript. It simulates the core frontend interface of YouTube with features like a dark mode toggle, responsive sidebar, video listing layout, and a search interface.
 
 🚀 Features
+
 🎨 Responsive UI that adapts to all screen sizes
 
 🌗 Dark/Light mode toggle with local storage support
@@ -27,6 +29,7 @@ StreamHub/
 ├── user.jpg          # User image (placeholder)
 
 🔧 How to Run
+
 Clone the repository or Download the ZIP.
 
 Make sure the following files are in the same directory:
@@ -44,6 +47,7 @@ Open index.html in your browser.
 💡 No server setup or frameworks needed – pure frontend project.
 
 🧠 What You'll Learn
+
 Structuring a complex webpage with HTML5
 
 Styling and theming with CSS Variables
@@ -55,12 +59,14 @@ Responsive layouts using Flexbox and Media Queries
 Creating reusable UI components like cards, buttons, and sidebar
 
 📸 Screenshots
+
 <img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/d34fe99b-05a5-4bbd-808e-12aa47434829" />
 <img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/5f1671e7-691e-4515-bc41-fd3493f45db7" />
 <img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/ebd74101-f3b3-4da6-887b-627e07735aa1" />
 
 
 📚 Technologies Used
+
 HTML5
 
 CSS3
@@ -70,6 +76,7 @@ Vanilla JavaScript (ES6)
 Font Awesome (icons)
 
 🙌 Credits
+
 Video thumbnails and logos used are from public image links for demonstration.
 
 Inspired by YouTube’s UI for learning and educational purposes.
