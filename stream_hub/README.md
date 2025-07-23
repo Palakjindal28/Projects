@@ -21,12 +21,18 @@ A clean, responsive, and functional YouTube UI clone built using HTML, CSS, and 
 📁 Project Structure
 
 StreamHub/
+
 │
 ├── index.html        # Main HTML file (UI structure)
+
 ├── style.css         # All styling and theming
+
 ├── script.js         # JavaScript logic (dark mode, sidebar toggles)
+
 ├── logo.png          # Logo image (placeholder)
+
 ├── user.jpg          # User image (placeholder)
+
 
 🔧 How to Run
 
@@ -61,9 +67,14 @@ Creating reusable UI components like cards, buttons, and sidebar
 📸 Screenshots
 
 <img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/d34fe99b-05a5-4bbd-808e-12aa47434829" />
+
+                                               In Light Mode
 <img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/5f1671e7-691e-4515-bc41-fd3493f45db7" />
+
+                                               Toggle Side Bar
 <img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/ebd74101-f3b3-4da6-887b-627e07735aa1" />
 
+                                               In Dark Mode
 
 📚 Technologies Used
 
