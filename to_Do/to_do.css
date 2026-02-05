@@ -1,0 +1,105 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/ac/54/a1/ac54a128942c750799c2c1fe144d2467.jpg); 
+    background-attachment: scroll;
+    background-size: cover;    
+}
+.container{
+    width: 100%;
+    max-width: 550px;
+    background-color: white;
+    margin: 100px auto 20px;
+    padding: 40px 30px 70px;
+    border-radius: 10px;
+    position: relative;
+    float: right;
+    right: 8%;
+}
+.container h2{
+    color: black;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: x-large;
+}
+.container h2 img{
+    margin-left:10px ;
+    width: 30px;
+    font-size: 35px;
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgb(200, 200, 200);
+    border-radius: 50px;
+}
+input{
+    flex: 1;
+    border: none;
+    outline: none;
+    background: transparent;
+    color: black;
+    padding: 10px;
+    font-weight: 14px;
+    margin-right: 10px;
+    font-size: 25px;
+}
+.row button{
+    border: none;
+    outline: none;
+    background-color:rgba(181,162,227,255);
+    border-radius: 30px;
+    cursor: pointer;
+    padding: 16px 50px;
+    margin-left: 10px;
+    font-size: 25px;
+}
+.row button:hover{
+    background-color:rgba(161, 142, 207, 255);
+}
+ul{
+    max-height: 300px;
+    overflow-y: scroll;
+}
+ul li{
+    list-style: none;
+    user-select: none;
+    cursor: pointer;
+    position: relative;
+    padding-left:5%;
+    display: flex;
+    font-size: x-large;
+}
+ul li::before{
+    content: '';
+    position: absolute;
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB5VqkOoWW1mXD32kPWesBUDDIBlxuKAKFqg&s);
+    top: 50%;
+    left: 0%;
+    display: flex;
+    transform: translateY(-50%);
+}
+ul li.checked{
+    text-decoration: line-through;
+}
+ul li.checked::before{
+    color: orange;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfL6BUW30k6L10iAQp21XFxesQnH7sj1h5sA&s);
+}
+ul li span{
+    right: 0;
+    top: 5px;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    text-align: center;
+    border-radius: 50%;
+}
+ul li span:hover{
+    background-color: #edeef0;
+}
