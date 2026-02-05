@@ -10,20 +10,17 @@ It consists of multiple independent services communicating via REST APIs, with a
 
 ### 🔹 API Gateway
 
-- Routes client requests to backend services
-- 
+- Routes client requests to backend services 
 - Acts as a single access point for the system
 
 ### 🔹 Student Management Service
 
 - Handles student-related operations
-- 
 - Provides REST APIs for managing student data
 
 ### 🔹 Course Management Service
 
 - Handles course-related operations
-- 
 - Provides REST APIs for managing courses
 
 ---
