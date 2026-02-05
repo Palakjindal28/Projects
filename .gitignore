@@ -1,0 +1,26 @@
+# Maven
+target/
+**/target/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# IDEs
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Logs
+logs/
+*.log
+
+# Environment & secrets
+.env
+.env.*
+application.properties
+application.yml
+application-*.properties
+application-*.yml
